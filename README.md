@@ -9,13 +9,18 @@
 <br/>
 
 <div align=center>
-🔭 I’m currently working on vue3 and Python
 
-🤝 I’m looking for help with on [Mini Python projects](https://github.com/Hetari/Python-Mini-Projects)
+- 🌱 I’m currently learning **Node.js**
 
-🌱 I’m currently learning vue3, and laraval
+- 👨‍💻 All of my projects are available at [https://mohdfahd.github.io/MyResume/](https://mohdfahd.github.io/MyResume/)
 
-💬 Ask me about **Python, Vue3,Laravel,Front-End,Back-End and SQL**
+- 💬 Ask me about **Vue, Laravel,Html, Css, JS....etc**
+
+- 📫 How to reach me **mohammed.f.alsulami@gmail.com**
+
+- 📄 Know about my experiences [https://mohdfahd.github.io/MyResume/](https://mohdfahd.github.io/MyResume/)
+
+- ⚡ Fun fact **I think I'm Error**
 
 📫 How to reach me:
 
@@ -68,16 +73,10 @@
 
 <div align=center>
   <h1>📊GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=
-MohdFahd&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="
-MohdFahd" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=
-MohdFahd&theme=transparent&hide_border=true" alt="
-MohdFahd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohdFahd&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="hetari" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MohdFahd&theme=transparent&hide_border=true" alt="hetari" />
   <br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-MohdFahd&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="
-MohdFahd" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdFahd&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="hetari" />
 </div>
 
 <br/>
