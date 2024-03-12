@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=40&duration=4000&pause=1000&color=10CDACFF&center=true&vCenter=true&random=false&width=550&height=100&lines=Hello+there+;I+Think+I'm+Error!! :) " alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=40&duration=4000&pause=1000&color=10CDACFF&center=true&vCenter=true&random=false&width=550&height=100&lines=Hello+there+;I+Think+I'm+an+Error!! :) " alt="Typing SVG" />
   </a>
 </h1>
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://mohdfahd.github.io/MyResume/](https://mohdfahd.github.io/MyResume/)
 
-- ⚡ Fun fact **I think I'm Error**
+- ⚡ Fun fact **I think I'm an Error**
 
 📫 How to reach me:
 
